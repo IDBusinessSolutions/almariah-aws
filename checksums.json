@@ -1,0 +1,13 @@
+{
+  "Gemfile": "dbc1a15e3a264c03878028240cfc5d89",
+  "LICENSE": "86d3f3a95c324c9479bd8986968f4327",
+  "README.md": "08f9d25d5d5f8f82f7046f5fa5e57331",
+  "Rakefile": "20b80e526e351a74df2001f504e756d2",
+  "lib/puppet/feature/awssdks3.rb": "3abcf8b53b0c661629e2e9112b6de730",
+  "lib/puppet/provider/s3file/s3file.rb": "8f61941063f584bc7a817ed7998f932f",
+  "lib/puppet/type/s3file.rb": "0662665b7d86337df831b10757e62e3f",
+  "metadata.json": "2070fb0a3bd99bae3cc16762e3a96c6e",
+  "spec/classes/init_spec.rb": "e82c07affa38504ddbfa9e69c4453f49",
+  "spec/spec_helper.rb": "0db89c9a486df193c0e40095422e19dc",
+  "tests/init.pp": "bd628de71b6e3e669ccacdb7954de92f"
+}
