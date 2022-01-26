@@ -1,6 +1,6 @@
 {
   "name": "almariah-aws",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "author": "Abdullah Almariah",
   "summary": "This module fetch files from AWS S3 on Linux systems",
   "license": "Apache-2.0",
@@ -9,10 +9,23 @@
   "issues_url": "https://github.com/almariah/puppet-aws/issues",
   "operatingsystem_support": [
     {
+      "operatingsystem": "CentOS",
+      "operatingsystemrelease": [
+        "7"
+      ]
+    },
+    {
       "operatingsystem": "RedHat",
       "operatingsystemrelease": [
-        "6",
-        "7"
+        "7",
+        "8"
+      ]
+    },
+    {
+      "operatingsystem": "Rocky",
+      "operatingsystemrelease": [
+        "7",
+        "8"
       ]
     },
     {
